@@ -21,9 +21,9 @@ public class Problem2 {
         return arr;
     }
     public static void main(String[] args) {
-        int[] myArray = {2,11,5,10,7,8};
+        int[] myArray = {2,11,5,9,10,7,8};
         Problem2 pr2 = new Problem2();
-        int result[] = pr2.reverseArray(myArray, 0, 5);
+        int result[] = pr2.reverseArray(myArray, 0, myArray.length-1);
         for(int i = 0; i<result.length; i++){
             System.out.println(result[i]);
         }
