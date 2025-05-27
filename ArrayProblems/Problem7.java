@@ -1,4 +1,12 @@
 
+/*
+ * Given an array of n-1 integers in the range of 1 to n, find the missing number.
+ * Example:-
+ *       Input: arr = {2,4,1,8,6,3,7}
+ *       Output: 5
+ *       Explanation: The array contains numbers from 1 to 8, and the missing number is 5.
+ */
+
 package ArrayProblems;
 public class Problem7 {
     public int findMissingNumber(int[] arr){
@@ -14,5 +22,6 @@ public class Problem7 {
         Problem7 pr7 = new Problem7();
         int result = pr7.findMissingNumber(myArray);
         System.out.println("The Missing Number is :" + result);
+        
     }
 }
