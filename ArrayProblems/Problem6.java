@@ -3,7 +3,6 @@
  */
 
 
-package ArrayProblems;
 
 public class Problem6 {
     public int[] resize(int[] arr, int capacity){

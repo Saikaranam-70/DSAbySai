@@ -6,7 +6,7 @@
  * Output:-{1,4,12,0,0}
  */
 
-package ArrayProblems;
+
 
 public class Problem5 {
     public int[] moveZeros(int[] arr, int n){

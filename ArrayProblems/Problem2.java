@@ -7,7 +7,6 @@
  */
 
 
-package ArrayProblems;
 
 public class Problem2 {
     public int[] reverseArray(int[] arr, int start, int end){

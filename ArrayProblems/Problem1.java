@@ -5,7 +5,7 @@
  *       output: arr={3,7,5}
  */
 
-package ArrayProblems;
+
 
 public class Problem1 {
     int[] removeEven(int[] arr){

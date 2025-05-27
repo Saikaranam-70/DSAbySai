@@ -5,7 +5,7 @@
  *      Output :- 5
  */
 
-package ArrayProblems;
+
 
 public class Problem3 {
     public int minNumInArray(int[] arr){

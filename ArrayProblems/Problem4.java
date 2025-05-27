@@ -5,7 +5,7 @@
  *         Output:- 33
  */
 
-package ArrayProblems;
+
 
 public class Problem4 {
     int findSecondMax(int[] arr){
